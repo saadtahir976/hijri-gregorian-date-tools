@@ -10,27 +10,35 @@
 
 ### 2. حساب العمر بالهجري فقط
 حساب دقيق يعتمد تقويم أم القرى الرسمي — معتمد للأوراق الرسمية السعودية.
-🔗 [حساب العمر بالهجري](https://agecalculator360.com/hijri-age-calculator.html)
+🔗 [حساب العمر بالهجري](https://agecalculator360.com/hijri-age-calculator)
 
 ### 3. تحويل التاريخ هجري ↔ ميلادي
 تحويل فوري في الاتجاهين بدقة 100%.
-🔗 [تحويل التاريخ](https://agecalculator360.com/date-converter.html)
+🔗 [تحويل التاريخ](https://agecalculator360.com/date-converter)
 
 ### 4. حساب فرق العمر بين شخصين
 اعرف الفارق الزمني الدقيق بالسنوات والأشهر والأيام.
-🔗 [فرق العمر](https://agecalculator360.com/age-difference-calculator.html)
+🔗 [فرق العمر](https://agecalculator360.com/age-difference-calculator)
 
 ### 5. سن التقاعد في السعودية
-احسب متى تبلغ سن التقاعد وفق نظام التأمينات الاجتماعية.
-🔗 [حاسبة سن التقاعد](https://agecalculator360.com/retirement-age-calculator.html)
+احسب متى تبلغ سن التقاعد وفق نظام التأمينات الاجتماعية السعودي.
+🔗 [حاسبة سن التقاعد](https://agecalculator360.com/retirement-age-calculator/saudi-arabia)
 
 ### 6. حساب عمر الطفل لدخول المدرسة
 تحقق من أهلية طفلك للتسجيل في المدرسة وفق شروط وزارة التعليم.
-🔗 [حاسبة سن المدرسة](https://agecalculator360.com/school-age-calculator.html)
+🔗 [حاسبة سن المدرسة](https://agecalculator360.com/school-age-calculator)
 
 ### 7. تاريخ اليوم بالهجري والميلادي
 اعرف تاريخ اليوم الهجري والميلادي مباشرةً بدون تحديث.
 🔗 [تاريخ اليوم بالهجري](https://agecalculator360.com/today-date)
+
+### 8. مواليد كم عمرهم — بالميلادي
+اكتشف عمر جميع مواليد سنة معينة بالتقويم الميلادي.
+🔗 [مواليد بالميلادي](https://agecalculator360.com/gregorian-years)
+
+### 9. مواليد كم عمرهم — بالهجري
+اكتشف عمر جميع مواليد سنة هجرية معينة.
+🔗 [مواليد بالهجري](https://agecalculator360.com/hijri-years)
 
 ---
 
